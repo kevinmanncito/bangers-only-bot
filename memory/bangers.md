@@ -9,9 +9,8 @@ The Morning Banger cron job reads this file before making new picks.
 - Bossman – Lucky Boys Confusion (2026-03-10)
 
 ## ❌ Not Bangers (user rejected)
-<!-- Add songs here when user says they're not bangers -->
+- Mr. Brightside – The Killers (2026-03-08)
+- Where Is My Mind? – Pixies (2026-03-10)
 
 ## 📋 Recommended (awaiting feedback)
 <!-- Tracks what has been sent so we don't repeat -->
-- Mr. Brightside – The Killers (2026-03-08)
-- Where Is My Mind? – Pixies (2026-03-10)
