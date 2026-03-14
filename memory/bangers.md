@@ -8,6 +8,7 @@ The Morning Banger cron job reads this file before making new picks.
 - Sultans of Swing – Dire Straits (2026-03-09)
 - Santeria – Sublime (2026-03-13)
 - Float On – Modest Mouse (2026-03-14)
+- The Middle – Jimmy Eat World (2026-03-14)
 
 ## ❌ Not Bangers (user rejected)
 - Mr. Brightside – The Killers (2026-03-08)
