@@ -15,7 +15,9 @@ The Morning Banger cron job reads this file before making new picks.
 - The Boys Are Back In Town – Thin Lizzy (2026-03-11)
 - September – Earth, Wind & Fire (2026-03-11 bonus attempt)
 - Dreams – Fleetwood Mac (2026-03-13)
+- Flagpole Sitta – Harvey Danger (2026-03-14)
 
 ## 📋 Recommended (awaiting feedback)
 <!-- Tracks what has been sent so we don't repeat -->
 - Baba O'Riley – The Who (2026-03-12)
+- Everlong – Foo Fighters (2026-03-14)
