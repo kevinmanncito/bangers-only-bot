@@ -10,6 +10,7 @@ The Morning Banger cron job reads this file before making new picks.
 - Float On – Modest Mouse (2026-03-14)
 - The Middle – Jimmy Eat World (2026-03-14)
 - Buddy Holly – Weezer (2026-03-17)
+- Clint Eastwood – Gorillaz (2026-03-18)
 
 ## ❌ Not Bangers (user rejected)
 - Mr. Brightside – The Killers (2026-03-08)
