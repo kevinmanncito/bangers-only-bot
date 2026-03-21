@@ -20,9 +20,11 @@ The Morning Banger cron job reads this file before making new picks.
 - Dreams – Fleetwood Mac (2026-03-13)
 - Flagpole Sitta – Harvey Danger (2026-03-14)
 - Cherub Rock – The Smashing Pumpkins (2026-03-14)
+- Midnight City – M83 (2026-03-21)
 
 ## 📋 Recommended (awaiting feedback)
 <!-- Tracks what has been sent so we don't repeat -->
 - Baba O'Riley – The Who (2026-03-12)
 - Everlong – Foo Fighters (2026-03-14)
 - The Underdog – Spoon (2026-03-15)
+- Electric Feel – MGMT (2026-03-19)
