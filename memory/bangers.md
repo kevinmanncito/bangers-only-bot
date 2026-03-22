@@ -21,6 +21,7 @@ The Morning Banger cron job reads this file before making new picks.
 - Flagpole Sitta – Harvey Danger (2026-03-14)
 - Cherub Rock – The Smashing Pumpkins (2026-03-14)
 - Midnight City – M83 (2026-03-21)
+- A-Punk – Vampire Weekend (2026-03-22)
 
 ## 📋 Recommended (awaiting feedback)
 <!-- Tracks what has been sent so we don't repeat -->
