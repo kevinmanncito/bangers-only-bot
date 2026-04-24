@@ -22,6 +22,7 @@ The Morning Banger cron job reads this file before making new picks.
 - Cherub Rock – The Smashing Pumpkins (2026-03-14)
 - Midnight City – M83 (2026-03-21)
 - A-Punk – Vampire Weekend (2026-03-22)
+- Banditos – The Refreshments (2026-04-24)
 
 ## 📋 Recommended (awaiting feedback)
 <!-- Tracks what has been sent so we don't repeat -->
@@ -57,4 +58,3 @@ The Morning Banger cron job reads this file before making new picks.
 - Sabotage – Beastie Boys (2026-04-22)
 - Don't Look Back in Anger – Oasis (2026-04-23)
 - Ain't No Rest for the Wicked – Cage the Elephant (2026-04-24)
-- Banditos – The Refreshments (2026-04-24)
